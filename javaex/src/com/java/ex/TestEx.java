@@ -6,15 +6,8 @@ public class TestEx {
 			int j = 20;
 			int h = 30;
 			
-			char c = 'a';
-			char b = 'b';
-			char g = 'w';
-			
 			System.out.println(i);
 			System.out.println(j);
-			System.out.println(h);
-			System.out.println(h);
-			System.out.println(h);
 			System.out.println(h);
 		}
 }
