@@ -29,6 +29,7 @@ public class MainClass {
 		AdminConnection adminConnection = gCtx.getBean("adminConnection",AdminConnection.class);
 		System.out.println("admin ID : " + adminConnection.getAdminId());
 		System.out.println("admin PW : " + adminConnection.getAdminPw());
+		System.out.println("adimg");
 		
 		gCtx.close();
 		ctx.close();
