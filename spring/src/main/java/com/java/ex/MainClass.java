@@ -30,6 +30,7 @@ public class MainClass {
 		System.out.println("admin ID : " + adminConnection.getAdminId());
 		System.out.println("admin PW : " + adminConnection.getAdminPw());
 		System.out.println("adimg");
+		System.out.println("2222");
 		
 		gCtx.close();
 		ctx.close();
